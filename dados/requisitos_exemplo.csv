@@ -1,0 +1,11 @@
+texto,categoria
+"O sistema deve carregar rápido.",não funcional
+"O usuário pode fazer login com e-mail e senha.",funcional
+"Alguns usuários devem ter acesso administrativo.",regra de negócio
+"O sistema deve responder geralmente em menos de 3 segundos.",não funcional
+"O cliente pode alterar seus dados pessoais.",funcional
+"O sistema deve ser rápido e eficiente.",não funcional
+"Todos os dados devem ser armazenados com segurança.",não funcional
+"O gerente pode aprovar pedidos acima de R$ 5.000.",regra de negócio
+"O sistema deve funcionar bem.",não funcional
+"O usuário deve receber uma confirmação por e-mail.",funcional
